@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-06-20T19:37:53.286Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="kPDZSWFH_WKL-eUpFRK5" version="24.5.5" type="device">
+  <diagram name="Página-1" id="Z_ZYVJmIMc1IGSZ7fhVB">
+    <mxGraphModel dx="1887" dy="-525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6MS63df2hoAY9MR7hXwY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MS63df2hoAY9MR7hXwY-6" target="6MS63df2hoAY9MR7hXwY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MS63df2hoAY9MR7hXwY-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1200" width="140" height="153.34" as="geometry" />
+        </mxCell>
+        <mxCell id="6MS63df2hoAY9MR7hXwY-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/6394/6394065.png;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1200" width="140" height="153.34" as="geometry" />
+        </mxCell>
+        <mxCell id="6MS63df2hoAY9MR7hXwY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6MS63df2hoAY9MR7hXwY-8" target="6MS63df2hoAY9MR7hXwY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6MS63df2hoAY9MR7hXwY-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d1.awsstatic.com/case-studies/LATAM/vivareal_video.55a9e07048a14b3d925254139c10021dc4136e1d.png;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1200" width="140" height="153.34" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
